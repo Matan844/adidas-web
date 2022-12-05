@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+}
+
+#backphoto1 {
+    background-image: url("https://data.whicdn.com/images/11240798/original.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    margin: 0;
+}
+
+#backphoto2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+    background-image: url("https://th.bing.com/th/id/R.b4e91efd1e031df81ebbfee605ec0b79?rik=3O0%2fiQpGr0XfRQ&riu=http%3a%2f%2fwallsdesk.com%2fwp-content%2fuploads%2f2016%2f08%2fAdidas-Wallpaper.jpg&ehk=izekS9s8NAp%2blu%2bQip3IKcVLTcnDeNOtRCVA3Aay2Wo%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+}
+
+
+.kot {
+    color: aliceblue;
+    margin-top: 0;
+    padding-top: 30vh;
+    font-size: 35px;
+    padding-left: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#sec {
+
+    display: inline-block;
+    color: rgb(5, 5, 6);
+    font-size: 35px;
+    margin-left: 7%;
+    margin-bottom: 15%;
+
+}
+
+#socialmedia {
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 220px;
+    margin-right: 220px;
+}
+
+.shirts1 {
+    padding-right: 0;
+    margin-right: 0;
+    display: inline-block;
+    justify-content: space-between;
+    border-style: groove;
+    border-color: brown;
+    border-width: 5px;
+}
+
+.shirts2 {
+    border-style: groove;
+
+    border-color: brown;
+    border-width: 5px;
+    display: inline-block;
+    justify-content: space-between;
+}
+
+#shirts {
+
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+#cenphot {
+
+
+    margin-left: 4vw;
+    margin-top: 0vh;
+}
+
+#p {
+
+    padding-left: 28%;
+
+
+}
+#login{
+    display: inline;
+    color: aliceblue;
+    margin: 0;
+    padding-left: 4px;
+    padding-bottom: 99%;
+}
